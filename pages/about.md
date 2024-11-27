@@ -12,9 +12,9 @@ credits: false
 
 {% include feature/nav-menu.html sections="Description;Transcript;Links;Acknowledgments;References" %}
 
-## Description
+#In this episode, we use St. Paul's Basilica as a jumping-off point to investigate the history of irish immigration to Toronto.# Description
 
-In this episode, we use St. Paul's Basilica as a jumping-off point to investigate the history of irish immigration to Toronto.
+
 
 ## Transcript
 
