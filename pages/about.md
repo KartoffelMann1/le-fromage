@@ -1,5 +1,5 @@
 ---
-title: About
+"The Belfast of North America": St Paul's Basilica and the Irish in Toronto
 layout: about
 permalink: /about.html
 # include CollectionBuilder info at bottom
