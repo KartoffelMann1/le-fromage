@@ -27,7 +27,8 @@ https://www.youtube.com/watch?v=yyNnsQ8gLnQ
 ## Acknowledgments
 
 The creators would like to acknowledge assistance and support from: 
--Dr Mark McGowen 
+
+- Dr Mark McGowen 
 
 - The York University Libraries' [Making & Media Creation Lab](https://www.library.yorku.ca/ds/)
 
