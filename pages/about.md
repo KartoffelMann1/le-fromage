@@ -12,9 +12,7 @@ credits: false
 
 {% include feature/nav-menu.html sections="Description;Transcript;Links;Acknowledgments;References" %}
 
-#In this episode, we use St. Paul's Basilica as a jumping-off point to investigate the history of irish immigration to Toronto.# Description
-
-
+## Description
 
 ## Transcript
 
@@ -22,7 +20,7 @@ If you have a transcript of your podcast's text, this might be a good place to p
 
 ## Links
 The following links and resources were referred to in in the podcast audio:
-
+"The Belfast of North America": St Paul's Basilica and the Irish in Toronto"
 1. This sample site is based on [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), which can be used to build digital exhibits from scratch.
 2. A list of [places you can look for free, openly-licensed audio for your podcast](https://www.canva.com/design/DAEJvWSiST4/FaBJKdustUaRcDy-oPD1uQ/view)
 
